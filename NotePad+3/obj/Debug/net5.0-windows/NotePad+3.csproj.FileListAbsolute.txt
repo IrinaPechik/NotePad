@@ -1,0 +1,40 @@
+C:\Users\lisen\source\repos\NotePad+3\bin\Debug\net5.0-windows\NotePad+3.exe
+C:\Users\lisen\source\repos\NotePad+3\bin\Debug\net5.0-windows\NotePad+3.deps.json
+C:\Users\lisen\source\repos\NotePad+3\bin\Debug\net5.0-windows\NotePad+3.runtimeconfig.json
+C:\Users\lisen\source\repos\NotePad+3\bin\Debug\net5.0-windows\NotePad+3.runtimeconfig.dev.json
+C:\Users\lisen\source\repos\NotePad+3\bin\Debug\net5.0-windows\NotePad+3.dll
+C:\Users\lisen\source\repos\NotePad+3\bin\Debug\net5.0-windows\ref\NotePad+3.dll
+C:\Users\lisen\source\repos\NotePad+3\bin\Debug\net5.0-windows\NotePad+3.pdb
+C:\Users\lisen\source\repos\NotePad+3\obj\Debug\net5.0-windows\NotePad+3.csproj.AssemblyReference.cache
+C:\Users\lisen\source\repos\NotePad+3\obj\Debug\net5.0-windows\NotePad_3.Form1.resources
+C:\Users\lisen\source\repos\NotePad+3\obj\Debug\net5.0-windows\NotePad+3.csproj.GenerateResource.cache
+C:\Users\lisen\source\repos\NotePad+3\obj\Debug\net5.0-windows\NotePad+3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisen\source\repos\NotePad+3\obj\Debug\net5.0-windows\NotePad+3.AssemblyInfoInputs.cache
+C:\Users\lisen\source\repos\NotePad+3\obj\Debug\net5.0-windows\NotePad+3.AssemblyInfo.cs
+C:\Users\lisen\source\repos\NotePad+3\obj\Debug\net5.0-windows\NotePad+3.csproj.CoreCompileInputs.cache
+C:\Users\lisen\source\repos\NotePad+3\obj\Debug\net5.0-windows\NotePad+3.dll
+C:\Users\lisen\source\repos\NotePad+3\obj\Debug\net5.0-windows\ref\NotePad+3.dll
+C:\Users\lisen\source\repos\NotePad+3\obj\Debug\net5.0-windows\NotePad+3.pdb
+C:\Users\lisen\source\repos\NotePad+3\obj\Debug\net5.0-windows\NotePad+3.genruntimeconfig.cache
+C:\Users\lisen\source\repos\NotePad+3\obj\Debug\net5.0-windows\NotePad_3.Properties.Resources.resources
+C:\Users\lisen\source\repos\NotePad+3\obj\Debug\net5.0-windows\NotePad_3.NewWindow.resources
+C:\Users\lisen\OneDrive\Рабочий стол\NotePad+3\bin\Debug\net5.0-windows\NotePad+3.exe
+C:\Users\lisen\OneDrive\Рабочий стол\NotePad+3\bin\Debug\net5.0-windows\NotePad+3.deps.json
+C:\Users\lisen\OneDrive\Рабочий стол\NotePad+3\bin\Debug\net5.0-windows\NotePad+3.runtimeconfig.json
+C:\Users\lisen\OneDrive\Рабочий стол\NotePad+3\bin\Debug\net5.0-windows\NotePad+3.runtimeconfig.dev.json
+C:\Users\lisen\OneDrive\Рабочий стол\NotePad+3\bin\Debug\net5.0-windows\NotePad+3.dll
+C:\Users\lisen\OneDrive\Рабочий стол\NotePad+3\bin\Debug\net5.0-windows\ref\NotePad+3.dll
+C:\Users\lisen\OneDrive\Рабочий стол\NotePad+3\bin\Debug\net5.0-windows\NotePad+3.pdb
+C:\Users\lisen\OneDrive\Рабочий стол\NotePad+3\obj\Debug\net5.0-windows\NotePad+3.csproj.AssemblyReference.cache
+C:\Users\lisen\OneDrive\Рабочий стол\NotePad+3\obj\Debug\net5.0-windows\NotePad_3.Form1.resources
+C:\Users\lisen\OneDrive\Рабочий стол\NotePad+3\obj\Debug\net5.0-windows\NotePad_3.NewWindow.resources
+C:\Users\lisen\OneDrive\Рабочий стол\NotePad+3\obj\Debug\net5.0-windows\NotePad_3.Properties.Resources.resources
+C:\Users\lisen\OneDrive\Рабочий стол\NotePad+3\obj\Debug\net5.0-windows\NotePad+3.csproj.GenerateResource.cache
+C:\Users\lisen\OneDrive\Рабочий стол\NotePad+3\obj\Debug\net5.0-windows\NotePad+3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisen\OneDrive\Рабочий стол\NotePad+3\obj\Debug\net5.0-windows\NotePad+3.AssemblyInfoInputs.cache
+C:\Users\lisen\OneDrive\Рабочий стол\NotePad+3\obj\Debug\net5.0-windows\NotePad+3.AssemblyInfo.cs
+C:\Users\lisen\OneDrive\Рабочий стол\NotePad+3\obj\Debug\net5.0-windows\NotePad+3.csproj.CoreCompileInputs.cache
+C:\Users\lisen\OneDrive\Рабочий стол\NotePad+3\obj\Debug\net5.0-windows\NotePad+3.dll
+C:\Users\lisen\OneDrive\Рабочий стол\NotePad+3\obj\Debug\net5.0-windows\ref\NotePad+3.dll
+C:\Users\lisen\OneDrive\Рабочий стол\NotePad+3\obj\Debug\net5.0-windows\NotePad+3.pdb
+C:\Users\lisen\OneDrive\Рабочий стол\NotePad+3\obj\Debug\net5.0-windows\NotePad+3.genruntimeconfig.cache
